@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(231, 227, 227);
+}
+
+.box {
+    height: 280px;
+    width: 300px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+form input {
+    width: 96%;
+}
+
+.btn {
+    background-color: rgb(15, 199, 15);
+}
+
+form .btn1 {
+    background-color: blue;
+}
+
+.h1 {
+    color: blue;
+}
+
+.text {
+    font-size: 11px;
+}
